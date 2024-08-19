@@ -4,8 +4,8 @@
 橫圖演示: <a href="https://wn15.wntheme.com/" target="_blank">wn15.wntheme.com</a>  
 直圖演示: <a href="https://wn15p.wntheme.com/" target="_blank">wn15p.wntheme.com</a>
 
-##更新日誌
----
+## 更新日誌
+
 ### v2.0.0 - 2024/7/16
 - 新版本上線
   
