@@ -1,8 +1,10 @@
 # 文尼模板網 wntheme15 介紹
 
 ## 演示地址
-橫圖演示: <a href="https://wn15.wntheme.com/" target="_blank">wn15.wntheme.com</a>  
-直圖演示: <a href="https://wn15p.wntheme.com/" target="_blank">wn15p.wntheme.com</a>
+
+橫圖演示: [wn15.wntheme.com](https://wn15.wntheme.com/)  
+直圖演示: [wn15p.wntheme.com](https://wn15p.wntheme.com/)
+官網: [wntheme.com](https://wntheme.com/)
 
 ## 更新日誌
 
